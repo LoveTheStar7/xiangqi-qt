@@ -32,3 +32,7 @@ Windows 用户下载并解压：
 - `Xiangqi-Qt-v1.0.0-source.zip`
 
 也可以直接从仓库 tag `v1.0.0` 获取源码。
+
+## 许可证
+
+本项目基于 MIT License 开源。
