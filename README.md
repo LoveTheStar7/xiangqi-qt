@@ -136,19 +136,6 @@ xiangqi-qt/
 └── README.md
 ```
 
-## 发布与源码管理
-
-仓库使用 `.gitignore` 排除了构建产物和本地缓存，例如：
-
-- `build/`
-- `dist/`
-- `release/`
-- `__pycache__/`
-- `.pytest_cache/`
-- PyInstaller 生成的 `.spec` 文件
-
-Release 附件中的 exe 与源码压缩包由本地打包流程生成，不直接提交到源码仓库。
-
 ## 许可证
 
 本项目基于 MIT License 开源，详见 [LICENSE](LICENSE)。
