@@ -1,0 +1,4 @@
+# Python 3.9.10 was used to build and test this release.
+PySide6==6.9.1
+pytest==8.4.2
+pyinstaller==6.14.2
